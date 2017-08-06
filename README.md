@@ -1,4 +1,12 @@
 # Distributed-Systems
+Lab 1 : Mapreduce, sequential and distributed fault tolerant engine
+
+Pass all tests,
+
+```
+PASS
+ok  	mapreduce	18.686s
+```
 
 Lab 2 : Raft, a distributed consensus algorithm.
 
@@ -44,6 +52,8 @@ ok  	raft	188.008s
 ```
 
 Lab 3 : kvraft, a distributed key value store built on raft
+
+Pass all tests,
 
 ```
 Test: One client ...
